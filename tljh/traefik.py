@@ -52,7 +52,7 @@ def ensure_traefik_binary(prefix):
             os.remove(traefik_bin)
 
     traefik_url = (
-        "https://drive.google.com/open?id=1z89sMEHNGXM18O7YAG3R2JqNh4EEj1tE"
+        "https://doc-04-3c-docs.googleusercontent.com/docs/securesc/7ghn0c0ps3m4is0b60udbg8dgf4fog61/1dpu7n1ks6llk6s1kgoi5as7t71e5jip/1571983200000/15596306705690595115/15596306705690595115/1z89sMEHNGXM18O7YAG3R2JqNh4EEj1tE?e=download"
     )
     print(f"Downloading traefik {traefik_version}...")
     # download the file
