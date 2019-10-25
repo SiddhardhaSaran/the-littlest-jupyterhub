@@ -114,7 +114,7 @@ def main():
 
     logger.info('Checking if TLJH is already installed...')
     if os.path.exists(os.path.join(hub_prefix, 'bin', 'python3')):
-        logger.info('TLJH already installed, upgrading...')
+        logger.info('TLJH already installed, PLease help me its upgrading...')
         initial_setup = False
     else:
         logger.info('Setting up hub environment')
